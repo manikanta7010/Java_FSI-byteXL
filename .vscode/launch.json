@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Generics",
+      "request": "launch",
+      "mainClass": "Generics",
+      "projectName": "my-project_7f49e793"
+    },
+    {
+      "type": "java",
       "name": "Threads",
       "request": "launch",
       "mainClass": "Threads",
